@@ -1,2 +1,2 @@
-# usm_c-_lab1
+# usm_cpp_lab1
 lab1 moodle game
